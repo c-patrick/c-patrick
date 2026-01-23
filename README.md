@@ -30,7 +30,8 @@ Python | Flask | SQLAlchemy | PostgreSQL | Docker | Linux | REST APIs | Git
   (Flask, SQLAlchemy, PostgreSQL, Chart.js)
   
 - **Computational Pipeline**: Automated DFT/TD-DFT workflow platform with SLURM 
-  integration, processing 1,000+ molecules annually (Python, Bash, HPC)
+  integration (Python, Bash, HPC). \
+  _Sorry - this one can't be shared publicly._
   
 - [**Spotify Music Game**](https://github.com/c-patrick/spotify-music-game): 
   Printable music quiz generator with Spotify API integration and QR code generation
