@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 # Connor Patrick
 
-Organic chemist transitioning to software engineering. 
+Organic chemist transitioning to software engineering.  
 Building tools at the intersection of science and technology.
+
+🌐 **Portfolio:** https://portfolio.loquacious.me
 
 Currently: Scientist at Cambridge Display Technology \
 Seeking: Software engineering and implementation roles
