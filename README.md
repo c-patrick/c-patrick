@@ -28,8 +28,12 @@ Python | Flask | SQLAlchemy | PostgreSQL | Docker | Linux | REST APIs | Git
 
 ## 🚀 Featured Projects
 - [**Gaussian WebView**](https://github.com/c-patrick/Gaussian_WebView): Full-stack 
-  web application for parsing, storing, and visualizing quantum chemistry data 
+  web application for parsing, storing, and visualising quantum chemistry data. 
   (Flask, SQLAlchemy, PostgreSQL, Chart.js)
+
+- [**AutoSDS**](https://github.com/c-patrick/AutoSDS):  Word macro template that
+  speeds up Safety Data Sheet (SDS) writing. 
+  (Visual Basic)
   
 - **Computational Pipeline**: Automated DFT/TD-DFT workflow platform with SLURM 
   integration (Python, Bash, HPC). \
@@ -44,5 +48,5 @@ Python | Flask | SQLAlchemy | PostgreSQL | Docker | Linux | REST APIs | Git
 - Exploring opportunities in implementation consulting and solutions engineering
 
 ## 📫 Get in Touch
-- [Contact Form](https://profile.loquacious.me/#contact)
+- [Contact Form](https://portfolio.loquacious.me/#contact)
 - [LinkedIn](https://www.linkedin.com/in/connor-patrick-53175a236)
